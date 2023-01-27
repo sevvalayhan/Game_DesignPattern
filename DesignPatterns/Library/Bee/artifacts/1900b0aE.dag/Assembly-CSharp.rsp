@@ -356,6 +356,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/GameManager.cs"
 "Assets/Scripts/Main.cs"
+"Assets/Scripts/ObjectPool/ObjectPool.cs"
+"Assets/Scripts/ObjectPool/Test.cs"
 "Assets/Scripts/Pass.cs"
 "Assets/Scripts/Singleton/SingletonExam1/PersistentManagerScript.cs"
 "Assets/Scripts/Singleton/SingletonExam1/SceneManagerScript.cs"
